@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Asthanarht&#39;s Blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Asthanarht&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Sep 2016 22:44:13 -0700</lastBuildDate>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about me</title>
+      <link>/post/about-me/</link>
+      <pubDate>Mon, 12 Sep 2016 22:44:13 -0700</pubDate>
+      
+      <guid>/post/about-me/</guid>
+      <description>&lt;p&gt;This is simple about me.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
